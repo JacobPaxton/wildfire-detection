@@ -12,3 +12,5 @@ For this project, I want to do several things:
 4. Push imagery to a cloud database that repeats in a cyclical fashion
 5. Link the dashboard to the simulated-updating feed of imagery
 6. Put a model into production that analyzes the imagery
+
+In addition to the above project steps, I intend to go through the standard preparation and analytic steps to deliver insights and a predictive model.
