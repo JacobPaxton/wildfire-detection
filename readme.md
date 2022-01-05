@@ -14,3 +14,6 @@ For this project, I want to do several things:
 6. Put a model into production that analyzes the imagery
 
 In addition to the above project steps, I intend to go through the standard preparation and analytic steps to deliver insights and a predictive model.
+
+# Progress
+1. Decided to use Google Colab for Tensorflow deep learning notebook
