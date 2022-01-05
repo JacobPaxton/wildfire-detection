@@ -17,3 +17,5 @@ In addition to the above project steps, I intend to go through the standard prep
 
 # Progress
 1. Decided to use Google Colab for Tensorflow deep learning notebook
+2. Found NASA MODIS user guide and imagery request website
+3. Decided to try Azure for deployment
